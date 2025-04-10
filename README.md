@@ -7,20 +7,6 @@
 Curricul.AI is an AI-powered platform designed to help users create optimized resumes tailored to specific job descriptions.  
 It uses OpenAI's GPT-4o-mini to enhance and personalize resumes while ensuring keyword alignment with Applicant Tracking Systems (ATS).
 
-###
-
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-</div>
-
-###
-
 ---
 
 ## 🚀 Features
@@ -36,6 +22,12 @@ It uses OpenAI's GPT-4o-mini to enhance and personalize resumes while ensuring k
 ---
 
 ## ⚙️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+</div>
 
 **Backend:**  
 - FastAPI  
