@@ -1,0 +1,87 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    background: white;
+    padding: 20px;
+    margin: 40px auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  /* Header */
+  .header {
+    text-align: center;
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    font-size: 28px;
+    margin: 0;
+  }
+  
+  .header p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Sections */
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .section-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #007BFF;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .section-content {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Contact Info */
+  .contact {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  /* Lists */
+  ul {
+    padding-left: 20px;
+  }
+  
+  /* PDF Specific Styles */
+  @media print {
+    body {
+        background: none;
+    }
+    .container {
+        box-shadow: none;
+        padding: 10px;
+    }
+    .header h1 {
+        font-size: 24px;
+    }
+    .section-title {
+        font-size: 18px;
+    }
+    .section-content {
+        font-size: 14px;
+    }
+  }
+  
