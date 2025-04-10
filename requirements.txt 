@@ -1,0 +1,7 @@
+markdown
+weasyprint
+gradio
+openai
+fastapi
+uvicorn
+python-dotenv

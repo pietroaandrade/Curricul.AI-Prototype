@@ -1,1 +1,0 @@
-# Curricul.AI-Prototype
